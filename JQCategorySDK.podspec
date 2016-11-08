@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name         = "JQCategorySDK"
-s.version      = "0.0.1"
+s.version      = "0.0.2"
 s.summary      = "iOS commonly used in Category, convenient and practical library."
 s.homepage     = "https://github.com/XiaoHanGe/JQCategorySDK"
 s.license      = { :type => "MIT", :file => "LICENSE" }
