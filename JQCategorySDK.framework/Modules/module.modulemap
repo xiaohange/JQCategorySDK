@@ -1,0 +1,6 @@
+framework module JQCategorySDK {
+  umbrella header "JQCategorySDK.h"
+
+  export *
+  module * { export * }
+}
